@@ -1,0 +1,14 @@
+{
+  "name": "nutriglass-ios",
+  "version": "1.0.0",
+  "description": "iOS Glassmorphic Diet Tracker",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx -y sirv-cli ./ --port 5173 --host 0.0.0.0 --cors --single"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sirv-cli": "^2.0.2"
+  }
+}
